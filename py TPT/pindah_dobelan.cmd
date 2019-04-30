@@ -1,0 +1,1 @@
+for /f "tokens=*" %%a in ('type dobelan.txt') do move %%a "C:\Users\060104044\Downloads\dobelan"
